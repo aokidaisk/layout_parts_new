@@ -8,18 +8,20 @@
 	text-align: center;
 }
 
+.q3_table td {
+	font-size: 16px;
+	line-height: 22px;
+	padding: 10px;
+	vertical-align: middle;
+	border:solid #dedede 1px;
+	border-collapse: collapse;
+}
+
 .q3_table thead {
 	font-size: 18px;
 	line-height: 26px;
-	vertical-align: middle;
 	color: #fff;
 	background-color: #2244aa;
-}
-
-.q3_table thead td {
-	padding: 10px;
-	border:solid #dedede 1px;
-	border-collapse: collapse;
 }
 
 .q3_table tbody tr:nth-child(even) {
@@ -36,15 +38,5 @@
 	background-color: #2244aa;
 	color: #fff;
 }
-
-.q3_table tbody td {
-	padding: 10px;
-	font-size: 16px;
-	line-height: 22px;
-	vertical-align: middle;
-	border:solid #dedede 1px;
-	border-collapse: collapse;
-}
-
 
 /* 回答はここに書いてね */
