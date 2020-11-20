@@ -30,6 +30,13 @@
 	border-top: dashed #000 2px;
 }
 
+.q3_table tbody th {
+	font-size: 18px;
+	line-height: 26px;
+	background-color: #2244aa;
+	color: #fff;
+}
+
 .q3_table tbody td {
 	padding: 10px;
 	font-size: 16px;
@@ -39,11 +46,5 @@
 	border-collapse: collapse;
 }
 
-.q3_table tbody td:first-child {
-	font-size: 18px;
-	line-height: 26px;
-	background-color: #2244aa;
-	color: #fff;
-}
 
 /* 回答はここに書いてね */

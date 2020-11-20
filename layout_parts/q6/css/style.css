@@ -2,17 +2,17 @@
 
 /* 回答はここに書いてね */
 
-.q6_1_content {
+.q6_lar_content {
 	text-align: center;
 }
-.q6_1_box_txal {
+.q6_lar_txal {
 	display: inline-block;
 	width: 90px;
 	padding: 10px 0;
 	background-color: #e6f2ff;
 }
 
-.q6_1_box_marg {
+.q6_lar_marg {
 	width: 90px;
 	margin: 0 auto;
 	text-align: center;
@@ -20,7 +20,7 @@
 	background-color: #e6f2ff;
 }
 
-.q6_2_content {
+.q6_tad_content {
 	display: table;
 }
 
@@ -36,7 +36,7 @@
 	background-color: #fff;
 }
 
-.q6_2_content2 {
+.q6_tad_content {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -46,11 +46,11 @@
 	padding: 10px;
 	background-color: #fff;
 }
-.q6_2_outer1 {
+.q6_tad_outer_auto {
 	position: relative;
 }
 
-.q6_2_inner1 {
+.q6_tad_inner_auto {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -59,11 +59,11 @@
 	margin: auto;
 }
 
-.q6_2_outer2 {
+.q6_tad_outer_tr {
 	position: relative;
 }
 
-.q6_2_inner2 {
+.q6_tad_inner_tr {
 	position: absolute;
 	top: 50%;
 	left: 50%;

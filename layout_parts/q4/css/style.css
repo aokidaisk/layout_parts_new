@@ -25,29 +25,29 @@
 	padding: 20px 0;
 }
 
-.q4_lef1 {
+.q4_lef_pink {
 	width: 100px;
 	background-color: #fdc8b8;
 }
 
-.q4_mid1 {
+.q4_mid_purple {
 	background-color: #e0abd9;
 }
 
-.q4_rig1 {
+.q4_rig_blue {
 	width: 100px;
 	background-color: #b6d8ed;
 }
 
-.q4_lef2 {
+.q4_lef_yellow {
 	background-color: #e5d32e;
 }
 
-.q4_mid2 {
+.q4_mid_red {
 	background-color: #ec8f9a;
 }
 
-.q4_rig2 {
+.q4_rig_green {
 	width: 500px;
 	background-color: #8fdcad;
 }
