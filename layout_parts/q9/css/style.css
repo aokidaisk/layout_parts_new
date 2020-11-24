@@ -15,12 +15,16 @@
 	z-index: 10;
 }
 
-.q9_balloon::before {
+.q9_balloon::before,
+.q9_balloon::after {
 	width: 0;
 	height: 0;
   content: "";
 	position: absolute;
 	border: 20px solid transparent;
+}
+
+.q9_balloon::before {
 	border-top: 20px #fff solid;
 	bottom: -38px;
 	left: 28px;
@@ -28,11 +32,6 @@
 }
 
 .q9_balloon::after {
-	width: 0;
-	height: 0;
-	content: "";
-	position: absolute;
-	border: 20px solid transparent;
 	border-top: 20px #222 solid;
 	bottom: -45px;
 	left: 28px;

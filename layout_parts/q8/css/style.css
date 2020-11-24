@@ -3,6 +3,7 @@
 /* 回答はここに書いてね */
 
 .q8_tra {
+	cursor: pointer;
 	margin: 0 auto;
 	width: 500px;
 	height: 333px;
@@ -32,7 +33,7 @@
 	transition:all 0.5s;
 }
 
-.q8_text_p {
+.q8_text_exp {
 	width: 100%;
 	position: absolute;
 	font-size: 16px;
